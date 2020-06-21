@@ -38,10 +38,8 @@
     "jsdom": "^9.9.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-scripts": "^1.0.7",
     "react-test-renderer": "^16.0.0",
-    "webpack": "^3.6.0",
-    "webpack-dev-server": "^3.1.11"
+    "webpack": "^3.6.0"
   },
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
@@ -51,9 +49,9 @@
     "bootstrap": "^3.4.1",
     "jsdom": "^9.9.1",
     "mocha": "^5.2.0",
-    "react-scripts": "^1.0.7",
+    "react-scripts": "^3.4.1",
     "react-test-renderer": "^16.0.0",
     "webpack": "^3.6.0",
-    "webpack-dev-server": "^3.1.11"
+    "webpack-dev-server": "^3.11.0"
   }
 }
